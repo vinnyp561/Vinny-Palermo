@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Honest Shine Driveway Cleaning</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Honest Shine Driveway Cleaning</h1>
+        <p>Your driveway will look as good as new!</p>
+    </header>
+
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>Driveway Pressure Washing</li>
+            <li>Affordable Rates</li>
+            <li>Fast & Efficient Service</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: info@honestshine.com</p>
+        <p>Phone: 555-1234</p>
+        <p>Location: Delray Beach, FL</p>
+        <p>Message us with your driveway details and get a free estimate!</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Honest Shine Driveway Cleaning</p>
+    </footer>
+</body>
+</html>
+
